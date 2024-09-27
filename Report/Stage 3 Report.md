@@ -1,8 +1,8 @@
-**Cholera Epidemiology**
+# Cholera Epidemiology**
 
-**Google Docs Submission:**
+## Google Docs Submission:** https://docs.google.com/document/d/1dLykHgPbOH9NHhK94s4zQtsuKy_chut1W9Spkf0irI0/edit
 
-**Contributors:**
+## Contributors:**
 
 The World Health Organization (WHO) has undertaken a comprehensive global initiative aimed at combating cholera by systematically collecting and analyzing data to evaluate the disease’s impact on human health. This effort, in collaboration with healthcare professionals and organizations worldwide, involves extensive data collection that traces cholera outbreaks and transmission patterns from as far back as the 19th century.
 
