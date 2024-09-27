@@ -3,7 +3,9 @@
 ## Google Docs Submission:https://docs.google.com/document/d/1dLykHgPbOH9NHhK94s4zQtsuKy_chut1W9Spkf0irI0/edit
 
 ## Contributors:Cateline Atieno Ouma (@Cateline), Noreen Nasambu Juma( @Nareju_noreen), Brian Bosire( @Bosire _ Ke),Pollanda(@Pollanda)
-## **Github Repo**: https://github.com/Cateline/Stage-3-Cholera-Epidemiology/edit/main/Report/Stage%203%20Report.md
+## R Script: https://github.com/Cateline/Stage-3-Cholera-Epidemiology/blob/main/Scripts/Stage%203%20Code.R
+## Frontend R Script: https://github.com/Cateline/Stage-3-Cholera-Epidemiology/blob/main/Scripts/FRONTEND%20STAGE%203%20CODE.R
+
 
 The World Health Organization (WHO) has undertaken a comprehensive global initiative aimed at combating cholera by systematically collecting and analyzing data to evaluate the disease’s impact on human health. This effort, in collaboration with healthcare professionals and organizations worldwide, involves extensive data collection that traces cholera outbreaks and transmission patterns from as far back as the 19th century.
 
@@ -28,7 +30,6 @@ A closer examination of Kenya’s cholera data reveals a concerning spike in its
 
 
 For the Frontend part of this task, we created a Shiny web application designed to provide an interactive dashboard for visualizing cholera outbreaks. Users can adjust a slider input to select a year range and a dropdown menu to choose a specific country or view data for all countries. The app also includes an action button to generate a report specifically for Kenya. There are three sections: 
-(1) An "Overview" tab that displays a Leaflet map with cholera cases and a summary table, 
-(2) A "Trends" tab with line plots for cases, fatalities, and case fatality rate (CFR) over time, and 
+(1) An "Overview" tab that displays a Leaflet map with cholera cases and a summary table
+(2) A "Trends" tab with line plots for cases, fatalities, and case fatality rate (CFR) over time
 (3) A "Reports" tab with a button to download a Kenya-specific cholera report.
-Frontens Script: 
