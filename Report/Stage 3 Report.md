@@ -14,9 +14,8 @@ Worldwide, the reported cases and deaths have been rising  with highest cases r
 
 In Africa, the Democratic Republic of Congo has reported the highest number of cholera cases and fatalities, surpassing the figures recorded in other African nations. Within East Africa, Somalia leads with the highest percentage of cholera cases, accounting for 42.3%, followed closely by Ethiopia and Kenya at 16.1%. In terms of fatalities in East Africa, Somalia again ranks the highest, contributing 48.3% of the region's cholera-related deaths, followed by Uganda at 19.6% and Kenya at 17.2%.
 
-![image](https://github.com/user-attachments/assets/a4a2d1f4-f9a7-40fd-be9d-1c45fcdadef4)
+![image](https://github.com/user-attachments/assets/33afb6f6-8001-400f-b8d6-88897afa7c81) ![image](https://github.com/user-attachments/assets/ed68ca23-390b-42c9-b5bb-54ecbc80324e)
 
-![image](https://github.com/user-attachments/assets/4cba17de-3e7c-4651-9b2d-9c8416ed7e66)
 
 
 
