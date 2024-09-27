@@ -21,7 +21,8 @@ In Africa, the Democratic Republic of Congo has reported the highest number of c
 
 A closer examination of Kenya’s cholera data reveals a concerning spike in its case fatality rate (CFR) between 2010 and 2011, where it surged dramatically from 3% to 27%. This sharp rise raised alarm over the country’s cholera management and response capacity. However, as Kenya implemented more targeted interventions, including improved access to clean water, sanitation, and healthcare, the fatality rate steadily declined, reaching as low as 0.9% by 2015. This trend show how important it is to sustain public health efforts in controlling cholera outbreaks and reducing mortality rates in the region.
 
-![image](https://github.com/user-attachments/assets/7e67210e-13e6-4f55-942f-93b62fcdbdcb)
+![image](https://github.com/user-attachments/assets/89c25886-1d32-4c3e-93ec-8420670f819f)
+
 
 
 
