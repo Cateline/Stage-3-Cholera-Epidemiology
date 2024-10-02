@@ -4,7 +4,7 @@
 
 ## Contributors:Cateline Atieno Ouma (@Cateline), Noreen Nasambu Juma( @Nareju_noreen), Brian Bosire( @Bosire _ Ke),Pollanda(@Pollanda)
 ## R Script: https://github.com/Cateline/Stage-3-Cholera-Epidemiology/blob/main/Scripts/Stage%203%20Code.R
-## Frontend R Script: https://github.com/Cateline/Stage-3-Cholera-Epidemiology/blob/main/Scripts/App.R
+## Frontend R Script: https://github.com/Cateline/Stage-3-Cholera-Epidemiology/blob/main/Frontend%20App/cholerashiny.R
 
 
 The World Health Organization (WHO) has undertaken a comprehensive global initiative aimed at combating cholera by systematically collecting and analyzing data to evaluate the disease’s impact on human health. This effort, in collaboration with healthcare professionals and organizations worldwide, involves extensive data collection that traces cholera outbreaks and transmission patterns from as far back as the 19th century.
