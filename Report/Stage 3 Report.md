@@ -29,5 +29,5 @@ A closer examination of Kenya’s cholera data reveals a concerning spike in its
 
 
 
-For the Frontend part of this task, we created a Shiny web application designed to provide an interactive dashboard for visualizing cholera outbreaks. Users can adjust a slider input to select a year range and a dropdown menu to choose a specific country or view data for all countries. 
-Link to App: https://choleraoutbreakdata.shinyapps.io/CholeraData/
+For the Frontend part of this task, we created a Shiny web application designed to provide an interactive dashboard for visualizing cholera outbreaks in Kenya. Users can adjust a slider input to select a year range and a dropdown menu to choose a specific country or view data for all countries. 
+Link to App: [https://choleraoutbreakdata.shinyapps.io/CholeraData/](https://pollanda.shinyapps.io/cholera_outbreak/)
